@@ -59,8 +59,6 @@ public class appwarp : MonoBehaviour {
 
 	
 	void Update () {
-		public string mystring;
-		
 		timer -= Time.deltaTime;
 		//if(timer < 0)
 		//{
