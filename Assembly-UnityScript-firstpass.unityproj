@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{9FA4D8A6-F62B-463F-631B-C0213C7D802E}</ProjectGuid>
+	<ProjectGuid>{94EFE10D-F2CE-0F4F-F4E7-FEAB19EEED80}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -57,7 +57,7 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="AppWarpUnity">
- <HintPath>D:/profile/Pykeja/Downloads/AppWarpUnity-master/AppWarpUnity-master/Sample/appwarp_sample/appwarp/Assets/AppWarpUnity.dll</HintPath>
+ <HintPath>D:/Mystik-Hands/Assets/AppWarpUnity.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -33,7 +33,7 @@ public class appwarp : MonoBehaviour {
 		WarpClient.GetInstance().AddZoneRequestListener(listen);
 		WarpClient.GetInstance ().AddTurnBasedRoomRequestListener (listen);
 		// join with a unique name (current time stamp)
-		username = "Jacob Pyke";
+		username = System.DateTime.UtcNow.Ticks.ToString();
 		WarpClient.GetInstance().Connect(username);
 		
 		//EditorApplication.playmodeStateChanged += OnEditorStateChanged;

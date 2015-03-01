@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{F5939524-247D-A66C-12B8-0883D9C1D682}</ProjectGuid>
+	<ProjectGuid>{184452D6-DBDC-E17B-A090-798BAB7F8AD6}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -54,14 +54,14 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="AppWarpUnity">
- <HintPath>D:/profile/Pykeja/Downloads/AppWarpUnity-master/AppWarpUnity-master/Sample/appwarp_sample/appwarp/Assets/AppWarpUnity.dll</HintPath>
+ <HintPath>D:/Mystik-Hands/Assets/AppWarpUnity.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{A29977B0-5E50-3561-0D8D-E599B8C472DB}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{A62134E3-D2EB-3FFB-18B4-F598C7445180}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{9FA4D8A6-F62B-463F-631B-C0213C7D802E}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+      <Project>{94EFE10D-F2CE-0F4F-F4E7-FEAB19EEED80}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
