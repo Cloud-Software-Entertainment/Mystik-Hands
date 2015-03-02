@@ -3,7 +3,6 @@
 # =============== #
 Temp/
 Library/
-Assets/
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -30,3 +29,8 @@ obj/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# ============ #
+# Customthings #
+# ============ #
+Assets/
