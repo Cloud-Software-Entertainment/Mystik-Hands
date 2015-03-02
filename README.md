@@ -1,10 +1,5 @@
 # Mystik-Hands
 
-This is a test commit to test if we can push and pull from the git repository. So nevermind this. Bah humbug.
+The official Mystik Hands git,
 
-Another test commmit to see if i can push and pull
-
-BLah
-
-Hello
-You suck
+This git is for a unity project made by Pykee, Helipro, Brad Fuller, Veksync.
