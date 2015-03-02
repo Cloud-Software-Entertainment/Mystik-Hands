@@ -1,5 +1,20 @@
-# Mystik-Hands
+# Mystik-Hands Repo
 
-The official Mystik Hands git,
+## Programmers
+* Jacob Pyke (L)
+* Andrew Yao
+* Brad Fuller
+* Brad West
 
-This git is for a unity project made by Pykee, Helipro, Brad Fuller, Veksync.
+## Art Designers
+* Jess May (L)
+* Jessie Firman
+
+## Beta Testers/Quality Assurance
+* Joel Fox
+* Mitchell Harrington
+* Joshua Harris
+* Jack Fleming
+
+## Misc.
+Game inspiration was Yu-Gi-Oh Dungeon Dice Monstors Game
