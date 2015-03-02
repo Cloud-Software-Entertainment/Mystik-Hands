@@ -12,10 +12,10 @@ Game inspiration was Yu-Gi-Oh Dungeon Dice Monstors Game
 * Jessie Firman
 
 ## Beta Testers/Quality Assurance
-* Brad Fuller (Lead)
+* Joshua Harris
 * Joel Fox
 * Mitchell Harrington
-* Joshua Harris
+* Brad Fuller
 * Jack Fleming
 
 ## Marketing
